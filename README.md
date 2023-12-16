@@ -1,6 +1,7 @@
-Ext.NET
-===========
+# Ext.NET END OF LIFE
 
-Ext.NET is available for download from https://ext.net/download.
+Ext.NET reached it's end-of-life on December 15, 2023 and is no longer being maintained.
 
-All Ext.NET issues are tracked here within GitHub at https://github.com/extnet/Ext.NET/issues.
+The entire release history is available in the [Archives](https://github.com/extnet/Archives/tree/master/legacy) and [NuGet](https://www.nuget.org/packages/Ext.NET). 
+
+Email: hello@object.net
